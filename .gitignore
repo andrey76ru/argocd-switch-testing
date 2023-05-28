@@ -1,0 +1,15 @@
+temp
+.idea
+.tox
+.cache
+*.bak
+
+# virtualenv
+venv/
+ENV/
+
+# fact_caching_connection dir
+tmp/
+
+# ssh private key
+ru_svc_kube_infra_private_ssh_key
